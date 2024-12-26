@@ -1,24 +1,24 @@
 # XUNTA DE GALICIA - CNTG(CENTRO NOVAS TECNOLOXÍAS DE GALICIA)
 
-## Introdución a la programación en Python 
+## Introdución a la programación en Python :technologist:
 
-### Descripción
+### Descripción :page_facing_up:
 Este curso guiará al alumnado hasta un nivel de conocimiento de programación que le permita diseñar, 
 escribir, depurar y ejecutar programas codificados en el lenguaje Python y comprender los conceptos básicos de la tecnología de desarrollo de software. 
 Durante la formación, se estudiarán aspectos de la programación en Python tales como los módulos, paquetes, excepciones, procesamiento de archivos, 
 así como técnicas generales de codificación y programación orientada a objetos (POO).
 
-### Objetivos
+### Objetivos :zap:
 * Aprender técnicas generales de codificación y mejores prácticas
 * Aprender a usar la programación orientada a objetos (OOP) en Python
 * Aprender a importar y usar módulos de Python
 * Aprender a manejar las excepciones
 * Aprender a procesar archivos
 
-### Dirgido a
+### Dirgido a :necktie:
 El curso se recomienda para aspirantes a desarrolladores/as que estén interesados/as en seguir carreras relacionadas con el desarrollo de software y la seguridad, las redes y el Internet de las cosas (IoT)
 
-### Temario
+### Temario :memo:
 #### Módulo 1: Módulos, paquetes y PIP
 * Importación y uso de módulos de Python
 * Uso de algunos de los módulos más útiles de la biblioteca estándar de Python
